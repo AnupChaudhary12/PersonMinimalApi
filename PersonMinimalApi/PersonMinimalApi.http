@@ -1,0 +1,10 @@
+@PersonMinimalApi_HostAddress = https://localhost:7102
+
+GET {{PersonMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{PersonMinimalApi_HostAddress}}/api/Person/GetAllPerson
+
+###

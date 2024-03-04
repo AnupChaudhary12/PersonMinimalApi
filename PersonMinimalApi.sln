@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonMinimalApi", "PersonMinimalApi\PersonMinimalApi.csproj", "{6C8CEBD1-3874-4FF6-8576-AC78A859239F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{9536FF0F-CA26-4B1D-AADC-CA692E41B183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8CEBD1-3874-4FF6-8576-AC78A859239F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8CEBD1-3874-4FF6-8576-AC78A859239F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8CEBD1-3874-4FF6-8576-AC78A859239F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8CEBD1-3874-4FF6-8576-AC78A859239F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9536FF0F-CA26-4B1D-AADC-CA692E41B183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9536FF0F-CA26-4B1D-AADC-CA692E41B183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9536FF0F-CA26-4B1D-AADC-CA692E41B183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9536FF0F-CA26-4B1D-AADC-CA692E41B183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B4E532-917B-4832-9CBC-5B81DDEBF5C0}
+	EndGlobalSection
+EndGlobal
